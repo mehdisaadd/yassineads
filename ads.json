@@ -3,7 +3,7 @@
     "DayTime": 0,
     "toolbarInt": 0,
     "EnableADSOnServer": true,
-    "UseAdsIn_Github": false,
+    "UseAdsIn_Github": true,
     "UseAdsIn_files_fm": false,
     "UseAdsIn_Mediafire": false,
     "UseAdsIn_jumpshare": false,
@@ -11,7 +11,7 @@
     "UseAdsIn_MySQl": false,
     "UseAdsIn_Googledrive": false,
     "EditorFirebaseFileUrl": "",
-    "EditorGithubFileUrl": "",
+    "EditorGithubFileUrl": "https://raw.githubusercontent.com/mehdisaadd/yassineads/main/ads.json",
     "EditorJumpShareFileUrl": "",
     "EditorMediafireFileUrl": "",
     "Editorfiles_fmFileUrl": "",
@@ -52,7 +52,7 @@
     },
     "EasyIronSource": {
         "UseEasyIronSource": true,
-        "AppKey": "fbub47",
+        "AppKey": "mehdis222",
         "BannerAdUnit": "",
         "InterstitialAdUnit": "",
         "RewardedVideoAdUnit": ""
