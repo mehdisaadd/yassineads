@@ -1,5 +1,5 @@
 {
-    "Version": "1.1.0",
+    "Version": "1.1.2",
     "DayTime": 0,
     "toolbarInt": 0,
     "EnableADSOnServer": true,
@@ -52,7 +52,7 @@
     },
     "EasyIronSource": {
         "UseEasyIronSource": true,
-        "AppKey": "mehdis222",
+        "AppKey": "mehdis333",
         "BannerAdUnit": "",
         "InterstitialAdUnit": "",
         "RewardedVideoAdUnit": ""
